@@ -1,0 +1,10 @@
+addSubDomain({
+  description: '...', // describe your project in this field
+  domain: 'is-an.app', // aka "root-domain". select between '1bt.uk' and 'is-an.app'
+  subdomain: 'socials', // desired subdomain name
+  owner: {
+    email: 'chiragnahata05',
+  },
+  record: {
+    "A": ["129.213.151.29"]
+  },
